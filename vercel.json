@@ -2,8 +2,5 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "installCommand": "npm install",
-  "framework": "vite",
-  "env": {
-    "VITE_GROQ_API_KEY": "@groq_api_key"
-  }
+  "framework": "vite"
 }
